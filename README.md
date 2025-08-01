@@ -8,8 +8,6 @@
 
 > “Like martial arts for the atmosphere — using the system’s own chaotic energy against itself.”
 
-We invite collaboration to develop Weather Jiu Jitsu as a community research platform.
-
 ---
 
 ## Featured Work
@@ -60,6 +58,8 @@ flooding](./publication/AGU-poster-2025/5.pdf)**
 ---
 
 ## 📚 How to Cite
+
+We invite collaboration to develop Weather Jiu Jitsu as a community research platform.
 
 Please cite Weather Jiu-Jitsu if you use or build upon this work:
 
