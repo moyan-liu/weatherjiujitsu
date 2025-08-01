@@ -1,6 +1,9 @@
 # TESTING 🌪️ Weather Jiu-Jitsu: Adaptive Control of Extreme Weather Events
 
-![Funny Weather Jiu-Jitsu Figure](./media/wjj-funny.png)
+<p align="center">
+  <img src="./media/wjj-funny.png" width="300"/>
+</p>
+
 **Weather Jiu-Jitsu** is a novel research framework that explores how to *gently redirect or deflect* extreme weather — such as hurricanes and atmospheric rivers — through scientifically informed, low-energy interventions in the atmosphere.
 
 > “Like martial arts for the atmosphere — using the system’s own chaotic energy against itself.”
