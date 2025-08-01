@@ -13,26 +13,26 @@
 ## Featured Work
 ### 📄 Preprint Papers
 
-- 🔬 **[Weather Jiu-Jitsu: Climate Adaptation for the 21st Century](./publication/weatherjiujitsu-perspective.pdf)**  
+- 🔬 **[Weather Jiu-Jitsu: Climate Adaptation for the 21st Century](./publication/wjj-perspective.pdf)**  
   This perspective proposes a new paradigm for climate adaptation. As extreme climate events intensify, traditional infrastructure and mitigation strategies are proving inadequate. We introduce Weather Jiu-Jitsu—a novel approach that exploits the chaotic dynamics of weather systems to subtly redirect or weaken destructive events using precisely timed, low-energy interventions.
 
   This vision blends adaptive chaos control theory with advances in observation, forecasting, and intervention technologies, laying the groundwork for a nature-assisted global infrastructure to confront 21st-century climate risks.
 
-- 🌪️ **[Adaptive Chaos Control of Weather Extremes: Demonstrating “Weather Jiu-Jitsu” in Idealized Models](./publication/chaos-control-paper.pdf)**  
+- 🌪️ **[Adaptive Chaos Control of Weather Extremes: Demonstrating “Weather Jiu-Jitsu” in Idealized Models](./publication/control-paper.pdf)**  
   We develop and test an optimal control framework for mitigating extreme weather in simplified atmospheric systems. Using Lorenz 63 and Lorenz 84 models, we show that small perturbations, guided by local Lyapunov exponents and ensemble forecasts, can keep weather trajectories within safe boundaries while minimizing energy use.
 
   Control strategies are robust to noise and uncertainty, demonstrating the feasibility of real-time adaptive interventions in chaotic systems. These results provide a foundation for scaling Weather Jiu-Jitsu to more realistic atmospheric models.
 
 ---
 
-## 📊 Conference Posters & Abstracts
+### 📊 Conference Posters & Abstracts
 
 - 📍 **[AGU 2024 Poster – Investigating Adaptive Chaos Control for Mitigating Weather Extremes](./publication/AGU-poster-2024.pdf)**
   This poster introduces the concept of adaptive chaos control as a potential method for weather modification.
 
   It explores how small, targeted perturbations—guided by Lyapunov exponents—can influence mid-latitude atmospheric circulation to reduce flood and drought risks. The work proposes a shift from traditional infrastructure toward dynamic interventions.
 
-- 📍 **AGU 2025 Abstracts**  
+- 📍 **[AGU 2025 Abstracts](./publication/AGU-poster-2025)**  
   Abstracts submitted to AGU 2025 explore Weather Jiu-Jitsu strategies across foundational theory, idealized and DL-based modeling, tropical cyclone and AR control, and seasonal regime dynamics.
   
   PDFs and final posters will be added as acceptance progresses.
@@ -52,16 +52,6 @@
 - **[Adaptive Chaos Control with Deep Learning of Atmospheric Dynamics to leverage the power of the atmospheric circulation with nudges to move or defuse storms and avert catastrophic
 flooding](./publication/AGU-poster-2025/5.pdf)**
   Presents Weather Jiu-Jitsu as an alternative to traditional flood infrastructure, exploring how small, well-timed perturbations to atmospheric circulation—supported by idealized models and deep learning emulators—could reduce the intensity or reroute flood-producing storms to mitigate impacts.
-
- 
----
-
-## 🧠 What We Study
-
-- Chaos control theory in atmospheric systems  
-- Ensemble-based targeting for perturbation placement  
-- Adaptive intervention for floods, hurricanes, atmospheric rivers  
-- Applications in Earth system governance and climate adaptation policy
 
 ---
 
