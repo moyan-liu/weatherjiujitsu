@@ -10,7 +10,7 @@
 
 ---
 
-## 📄 Featured Work
+## Featured Work
 ### 📄 Preprint Papers
 
 - 🔬 **[Weather Jiu-Jitsu: Climate Adaptation for the 21st Century](./publication/weatherjiujitsu-perspective.pdf)**  
@@ -37,25 +37,20 @@
   
   PDFs and final posters will be added as acceptance progresses.
 
-- **Weather Jiu Jitsu: A 21st century paradigm to leverage nature's power to mitigate some Compound, Concurrent, and Cascading Weather Hazards in a Changing Climate**
-
+- **[Weather Jiu Jitsu: A 21st century paradigm to leverage nature's power to mitigate some Compound, Concurrent, and Cascading Weather Hazards in a Changing Climate]**
   This talk will outline the potential for using small, strategically timed interventions to steer the atmosphere away from persistent weather regimes that produce compound extremes—floods, droughts, heatwaves, and more—drawing on idealized models and deep learning emulators to propose a new global-scale mitigation strategy.
 
-- **Steering Tropical Cyclones with Small Perturbations of the Jet Stream in Experiments with Deep Learning Foundation Models**
-
+- **[Steering Tropical Cyclones with Small Perturbations of the Jet Stream in Experiments with Deep Learning Foundation Models]**
   Explores the feasibility of shifting tropical cyclone tracks away from vulnerable regions by subtly influencing upstream steering winds using the Aurora deep learning model.
 
-- **Toward Controlling Atmospheric Rivers with Deep Learning Foundation Models and Adaptive Perturbation**
-
+- **[Toward Controlling Atmospheric Rivers with Deep Learning Foundation Models and Adaptive Perturbation]**
   Applies the Weather Jiu-Jitsu framework to Atmospheric Rivers, using Aurora to identify sensitive spatiotemporal zones where small interventions may redirect AR trajectories pre-landfall.
 
-- **Toward Adaptive Control of Extreme Weather Regimes Using the Seasonally Forced Lorenz-84 Model**
-
+- **[Toward Adaptive Control of Extreme Weather Regimes Using the Seasonally Forced Lorenz-84 Model]**
   Extends previous idealized control work to a seasonally forced L84 system, showing that weather regime frequency and intensity can be adaptively modulated using targeted, time-sensitive nudges.
 
-- **Adaptive Chaos Control with Deep Learning of Atmospheric Dynamics to leverage the power of the atmospheric circulation with nudges to move or defuse storms and avert catastrophic
-flooding**
-
+- **[Adaptive Chaos Control with Deep Learning of Atmospheric Dynamics to leverage the power of the atmospheric circulation with nudges to move or defuse storms and avert catastrophic
+flooding]**
   Presents Weather Jiu-Jitsu as an alternative to traditional flood infrastructure, exploring how small, well-timed perturbations to atmospheric circulation—supported by idealized models and deep learning emulators—could reduce the intensity or reroute flood-producing storms to mitigate impacts.
 
  
