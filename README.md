@@ -15,7 +15,9 @@
 
 - 🔬 **[Weather Jiu-Jitsu: Climate Adaptation for the 21st Century](./publication/wjj-perspective.pdf)**  
   This perspective proposes a new paradigm for climate adaptation. As extreme climate events intensify, traditional infrastructure and mitigation strategies are proving inadequate. We introduce Weather Jiu-Jitsu—a novel approach that exploits the chaotic dynamics of weather systems to subtly redirect or weaken destructive events using precisely timed, low-energy interventions.
-
+<p align="center">
+  <img src="./media/AR_Steering_Visuals.png" width="500"/>
+</p>
   This vision blends adaptive chaos control theory with advances in observation, forecasting, and intervention technologies, laying the groundwork for a nature-assisted global infrastructure to confront 21st-century climate risks.
 
 - 🌪️ **[Adaptive Chaos Control of Weather Extremes: Demonstrating “Weather Jiu-Jitsu” in Idealized Models](./publication/control-paper.pdf)**  
