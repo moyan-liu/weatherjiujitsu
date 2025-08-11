@@ -8,8 +8,6 @@
 
 > “Like martial arts for the atmosphere — using the system’s own chaotic energy against itself.”
 
-We invite collaboration to develop Weather Jiu Jitsu as a community research platform.
-
 ---
 
 ## Featured Work
@@ -53,13 +51,14 @@ We invite collaboration to develop Weather Jiu Jitsu as a community research pla
     4. **[Toward Adaptive Control of Extreme Weather Regimes Using the Seasonally Forced Lorenz-84 Model](./publication/AGU-poster-2025/4.pdf)**
   Extends previous idealized control work to a seasonally forced L84 system, showing that weather regime frequency and intensity can be adaptively modulated using targeted, time-sensitive nudges.
 
-    5. **[Adaptive Chaos Control with Deep Learning of Atmospheric Dynamics to leverage the power of the atmospheric circulation with nudges to move or defuse storms and avert catastrophic
-flooding](./publication/AGU-poster-2025/5.pdf)**
+    5. **[Adaptive Chaos Control with Deep Learning of Atmospheric Dynamics to leverage the power of the atmospheric circulation with nudges to move or defuse storms and avert catastrophic flooding](./publication/AGU-poster-2025/5.pdf)**
   Presents Weather Jiu-Jitsu as an alternative to traditional flood infrastructure, exploring how small, well-timed perturbations to atmospheric circulation—supported by idealized models and deep learning emulators—could reduce the intensity or reroute flood-producing storms to mitigate impacts.
 
 ---
 
 ## 📚 How to Cite
+
+We invite collaboration to develop Weather Jiu Jitsu as a community research platform.
 
 Please cite Weather Jiu-Jitsu if you use or build upon this work:
 

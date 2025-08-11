@@ -1,12 +1,24 @@
 # Weather Jiu-Jitsu: Climate Adaptation for the 21st Century
 
+[![Research Status](https://img.shields.io/badge/Status-Active%20Research-brightgreen)](https://github.com/qhuang62/weatherjiujitsu)
+[![Publication](https://img.shields.io/badge/Paper-Under%20Review-yellow)](./publication/wjj-perspective.pdf)
+[![GitHub Pages](https://img.shields.io/badge/Docs-GitHub%20Pages-blue)](https://qhuang62.github.io/weatherjiujitsu)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
 **Weather Jiu-Jitsu** is a novel research framework that explores how to *gently redirect or deflect* extreme weather — such as hurricanes and atmospheric rivers — through scientifically informed, low-energy interventions in the atmosphere.
 
 <p align="center">
   <img src="./media/wjj-funny.png" width="300"/>
 </p>
 
-> “Like martial arts for the atmosphere — using the system’s own chaotic energy against itself.”
+> "Like martial arts for the atmosphere — using the system's own chaotic energy against itself."
+
+## 🚀 Quick Start
+
+- **📖 [Read the Full Documentation](https://qhuang62.github.io/weatherjiujitsu)** - Complete research overview
+- **🔬 [Browse Research Papers](./publication/)** - Nature perspective paper and technical publications  
+- **📊 [View Project Timeline](./TIMELINE.md)** - Research roadmap and milestones
+- **🤝 [Contribute to Research](./CONTRIBUTING.md)** - Join our collaborative effort
 
 ---
 

@@ -1,0 +1,80 @@
+# GitHub Pages Configuration for Weather Jiu-Jitsu
+title: "Weather Jiu-Jitsu: Climate Adaptation for the 21st Century"
+description: "Using small, strategic perturbations to redirect extreme weather systems through adaptive chaos control"
+
+# Site settings
+url: "https://qhuang62.github.io"
+baseurl: "/weatherjiujitsu"
+
+# Theme
+theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/docs/"
+  - title: "Publications"  
+    url: "/publication/"
+  - title: "Timeline"
+    url: "/TIMELINE/"
+  - title: "Contribute"
+    url: "/CONTRIBUTING/"
+
+# Author information
+author:
+  name: "Weather Jiu-Jitsu Research Team"
+  email: "qhuang62@asu.edu"
+  
+# Social media
+social:
+  github: "qhuang62/weatherjiujitsu"
+  
+# Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "_docs"
+      type: "docs"
+    values:
+      layout: "page"
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .gitkeep
+
+# Enable math rendering
+kramdown:
+  math_engine: mathjax
