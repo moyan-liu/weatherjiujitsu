@@ -15,7 +15,7 @@
 
 ## 🚀 Quick Start
 
-- **📖 [Read the Full Documentation](https://qhuang62.github.io/weatherjiujitsu)** - Complete research overview
+- **📖 [Read the Full Documentation](https://upmanulall.github.io/weatherjiujitsu)** - Complete research overview
 - **🔬 [Browse Research Papers](./publication/)** - Nature perspective paper and technical publications  
 - **📊 [View Project Timeline](./TIMELINE.md)** - Research roadmap and milestones
 - **🤝 [Contribute to Research](./CONTRIBUTING.md)** - Join our collaborative effort
