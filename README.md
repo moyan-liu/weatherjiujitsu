@@ -25,7 +25,7 @@
 ## Featured Work
 ### 📄 Preprint Papers
 
-- 🔬 **[Weather Jiu-Jitsu: Climate Adaptation for the 21st Century](./publication/wjj-perspective.pdf)**  
+- 🔬 **[Weather Jiu-Jitsu: Climate Adaptation for the 21st Century](https://arxiv.org/abs/2508.09376)**  
   This perspective proposes a new paradigm for climate adaptation. As extreme climate events intensify, traditional infrastructure and mitigation strategies are proving inadequate. We introduce Weather Jiu-Jitsu—a novel approach that exploits the chaotic dynamics of weather systems to subtly redirect or weaken destructive events using precisely timed, low-energy interventions.
 <p align="center">
   <img src="./media/AR_Steering_Visuals.png" width="500"/>
