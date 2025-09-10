@@ -37,6 +37,8 @@
 
   Control strategies are robust to noise and uncertainty, demonstrating the feasibility of real-time adaptive interventions in chaotic systems. These results provide a foundation for scaling Weather Jiu-Jitsu to more realistic atmospheric models.
 
+[🗺️ View Interactive 3D Map](https://upmanulall.github.io/weatherjiujitsu/media/nhmm_3d.html)
+
 ---
 
 ### 📊 Conference Posters & Abstracts
